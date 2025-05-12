@@ -3,6 +3,7 @@ import TaskListNumbers from "../other/TaskListNumbers";
 import TaskList from "../TaskList/TaskList";
 
 const EmployeeTasks = ({ data }) => {
+ 
   return (
     <div>
       <h1 className="text-2xl font-bold text-white mb-5">Employee Tasks</h1>

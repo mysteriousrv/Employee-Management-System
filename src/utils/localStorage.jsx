@@ -1,4 +1,5 @@
-import image1 from "../assets/menemp1.webp";
+import image1 from "../assets/employee.png";
+import image2 from "../assets/women.png";
 
 const employees = [
   {
@@ -57,7 +58,7 @@ const employees = [
     firstName: "Sneha",
     email: "sneha@me.com",
     password: "123",
-    //image: image2, // Assign specific image
+    image: image2, // Assign specific image
     "attendance": {
       "today": "Absent",
       "weekly": [4, 3],
@@ -98,7 +99,7 @@ const employees = [
     firstName: "Ravi",
     email: "ravi@me.com",
     password: "123",
-    //image: image3, // Assign specific image
+    image: image1, // Assign specific image
     "attendance": {
       "today": "Present",
       "weekly": [6, 1],
@@ -149,7 +150,7 @@ const employees = [
     firstName: "Priya",
     email: "priya@me.com",
     password: "123",
-    //image: image4, // Assign specific image
+    image: image2, // Assign specific image
     "attendance": {
       "today": "Absent",
       "weekly": [3, 4],
@@ -190,7 +191,7 @@ const employees = [
     firstName: "Shiv",
     email: "shiv@me.com",
     password: "123",
-    //image: image5, // Assign specific image
+    image: image1, // Assign specific image
     "attendance": {
       "today": "Present",
       "weekly": [4, 3],

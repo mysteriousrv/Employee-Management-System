@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import AdminSideBar from "./AdminSideBar";
 import CreateTask from "../other/CreateTask";
 import AllTask from "../other/AllTask";
-import TaskChar from "../other/TaskChar";
 import EmployeeProfile from "./EmployeeProfile";
 import EmployeeAttendenc from "./EmployeeAttendenc";
 import EmployeeTasks from "./EmployeeTasks";
